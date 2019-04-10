@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfToDo!
+SystemOrganization addCategory: #BaselineOfTodo!
