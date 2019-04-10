@@ -1,5 +1,8 @@
 OrderedDictionary {
 	'packages\/BaselineOfCounter.package' : #SquotCypressCodeSerializer,
 	'packages\/Counter-Core.package' : #SquotCypressCodeSerializer,
-	'packages\/Counter-Tests.package' : #SquotCypressCodeSerializer
+	'packages\/Counter-Tests.package' : #SquotCypressCodeSerializer,
+	'packages\/ToDo-Core.package' : #SquotCypressCodeSerializer,
+	'packages\/ToDo-Tests.package' : #SquotCypressCodeSerializer,
+	'packages\/BaselineOfToDo.package' : #SquotCypressCodeSerializer
 }

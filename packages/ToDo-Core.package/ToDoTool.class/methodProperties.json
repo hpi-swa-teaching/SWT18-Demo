@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"open" : "pre 4/10/2019 16:27" },
+	"instance" : {
+		"addTodo:" : "pre 4/10/2019 16:38",
+		"buildDeleteButtonWith:" : "pre 4/10/2019 16:35",
+		"buildTodoListWith:" : "pre 4/10/2019 16:35",
+		"buildWith:" : "pre 4/10/2019 16:34",
+		"currentTodo" : "pre 4/10/2019 16:30",
+		"currentTodo:" : "pre 4/10/2019 16:30",
+		"deleteCurrentTodo" : "pre 4/10/2019 16:36",
+		"initialize" : "pre 4/10/2019 15:54",
+		"todoAt:" : "pre 4/10/2019 15:55",
+		"todos" : "pre 4/10/2019 15:54",
+		"todos:" : "pre 4/10/2019 15:54" } }
